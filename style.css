@@ -1,5 +1,5 @@
 body {
 	text-align: center;
-	background: linear-gradient(to bottom, #468499, #c39797);
+	background: linear-gradient(to bottom, #468499, #c39797) no-repeat;
 	display: flex;
 }
