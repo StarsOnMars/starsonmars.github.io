@@ -1,3 +1,7 @@
 body {
 	background: linear-gradient(to bottom, #468499, #c39797);
 }
+
+h1 {
+	text-align: center;
+}
